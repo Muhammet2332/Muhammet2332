@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Muhammet2332
 - 👀 I’m interested in GameDev, WebDev and AppDev
-- 🌱 I’m currently learning Unity engine
 - 📫 My email address: ituser2332@gmail.com
 
 <!---
